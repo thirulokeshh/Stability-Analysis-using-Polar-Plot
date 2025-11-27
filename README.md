@@ -6,6 +6,9 @@ Computer with MATLAB software
 
 ## Theory:
 
+![WhatsApp Image 2025-11-27 at 18 37 25_076ee6f0](https://github.com/user-attachments/assets/e266a92b-6780-4ce4-af6e-4c6c8bb388a2)
+![WhatsApp Image 2025-11-27 at 18 37 24_b25c1e50](https://github.com/user-attachments/assets/be552fa2-4068-40d2-8594-8b125ecaccf0)
+![WhatsApp Image 2025-11-27 at 18 37 24_20cef8af](https://github.com/user-attachments/assets/acd176cf-a3e9-43db-acef-c68398b55038)
 
 
 ## Procedure:
@@ -48,5 +51,5 @@ Gain margin = 0.7
 Phase Margin = -8.8865
 Gain crossover frequency = 3.7565
 Phase crossover frequency =3.1623
-The system is  unstable
+The system is unstable
 ~~~
